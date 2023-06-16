@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Challenge css</title>
+  </head>
+  <body>
+    <div class="container">
+      <header>
+        <nav>
+          <div class="logo">
+            <h1>Foodle</h1>
+          </div>
+          <div class="nav-link">
+            <ul>
+              <li><a href="#">Home</a></li>
+              <li><a href="#">Offer</a></li>
+              <li><a href="#">Service</a></li>
+              <li><a href="#">Menu</a></li>
+              <li><a href="#">About Us</a></li>
+            </ul>
+          </div>
+          <div class="sign-btn">
+            <div class="login">
+              <a href="#">Login</a>
+            </div>
+
+            <div class="login">
+              <a href="#">Login</a>
+            </div>
+          </div>
+        </nav>
+
+        <div class="hero">
+          <div class="hero-text">
+            <h2>All Fast Food is Available at Foodle</h2>
+          </div>
+          <div class="hero-img"></div>
+        </div>
+        <div class="avatart">
+          <img src="" alt="" />
+          <p>
+            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quae
+            blanditiis inventore impedit laboriosam, sequi quas!
+          </p>
+        </div>
+        <div class="callaction-btn">
+          <div>
+            <a href="">Buy now</a>
+          </div>
+          <div>
+            <a href="">How to Order</a>
+          </div>
+        </div>
+        <div class="section-action">
+          <div>
+            <h3>Fast Delivery</h3>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam,
+            vitae?
+          </div>
+          <div>
+            <h3>Fresh Food</h3>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam,
+            vitae?
+          </div>
+          <div>
+            <h3>Free Delivery</h3>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam,
+            vitae?
+          </div>
+        </div>
+      </header>
+    </div>
+
+    <div class="hero-section">
+      <div>
+        <h1>Best Delivered Categories</h1>
+        <p>
+          Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dignissimos
+          iste a iusto, dolore reprehenderit excepturi!
+        </p>
+      </div>
+      <div></div>
+    </div>
+  </body>
+</html>
